@@ -1,0 +1,76 @@
+/*Custom CSS file -- Pixel Engineering*/
+
+body {
+/*for fixed top navbar spacing*/
+margin-top: 70px;
+font-size: 16px;
+background-color: whitesmoke;
+}
+
+img {
+  vertical-align: middle;
+  text-align: center;
+}
+
+a {
+	color: #0088cc;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #00AAFF;
+	text-decoration: underline;
+}
+
+p {
+	font-family: 'Open Sans', 'sans-serif';
+}
+
+.navbar-brand img {
+	height: 45px;
+	margin-top: -12px;
+	margin-left: 1.0em;
+}
+
+.services {
+	margin-top: 75px;
+}
+
+/* Team CSS */
+
+.profile {
+ padding: 1em;
+}
+
+.profile-txt {
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+.profile-txt h3 {
+  padding-top: 0px;
+}
+
+.col-md-2 img {
+  margin-top: 1.4em;
+}
+
+
+/* footer CSS */
+footer {
+	width: 100%;
+	bottom: 0px;
+	margin: ;
+	padding: 0.5em 0px;
+	background-color: ;
+	margin-top: 1em;
+	font-size: 0.7em;
+}
+
+footer img {
+	margin-left: 0.5em;
+}
+
+footer hr {
+	margin: 10px 0px;
+}
